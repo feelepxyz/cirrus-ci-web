@@ -41,7 +41,7 @@
     "get-graphql-schema": "*",
     "husky": "*",
     "js-beautify": "*",
-    "lint-staged": "^9.2.0",
+    "lint-staged": "^9.2.1",
     "prettier": "*",
     "react-scripts": "*",
     "relay-compiler": "*"
